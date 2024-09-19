@@ -1,0 +1,6 @@
+[submodule "library-frontend-api"]
+	path = library-frontend-api
+	url = https://github.com/JhimmieC137/library-frontend-api.git
+[submodule "library-backend-api"]
+	path = library-backend-api
+	url = https://github.com/JhimmieC137/library-backend-api.git
